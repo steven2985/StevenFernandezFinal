@@ -1,5 +1,7 @@
 package com.example.stevenfernandezfinal;
 
+import com.google.gson.annotations.SerializedName;
+
 public class Stock {
 
     @SerializedName("01. symbol")private String symbol;
