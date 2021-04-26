@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">StevenFernandezFinal</string>
+    <string name="Open" />
+    <string name="Close" />
+    <string name="search_stock">Search Stock</string>
+    <string name="search">Search</string>
 </resources>
